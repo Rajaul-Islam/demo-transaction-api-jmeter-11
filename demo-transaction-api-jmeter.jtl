@@ -1,0 +1,10 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1718323384473,69,Login,200,OK,Thread Group 1-1,text,true,,621,312,1,1,http://dmoney.roadtocareer.net/user/login,66,0,37
+1718323386639,37,Creat User  Request,201,Created,Thread Group 1-1,text,true,,631,642,1,1,http://dmoney.roadtocareer.net/user/create,36,0,0
+1718323387432,29,Search Request,200,OK,Thread Group 1-1,text,true,,644,429,1,1,http://dmoney.roadtocareer.net/user/search/id/7965,29,0,0
+1718323388255,41,Deposit system to agent Request,208,Already Reported,Thread Group 1-1,text,true,,437,536,1,1,http://dmoney.roadtocareer.net/transaction/deposit,41,0,0
+1718323389222,62,Deposit Agent to Customer Request,201,Created,Thread Group 1-1,text,true,,437,541,1,1,http://dmoney.roadtocareer.net/transaction/deposit,62,0,0
+1718323390337,29,Customer's withdraw Request,208,Already Reported,Thread Group 1-1,text,true,,419,542,1,1,http://dmoney.roadtocareer.net/transaction/withdraw,29,0,0
+1718323392439,25,Customer's payment Request,208,Already Reported,Thread Group 1-1,text,true,,449,540,1,1,http://dmoney.roadtocareer.net/transaction/payment,25,0,0
+1718323394352,19,Customer balance check Request,200,OK,Thread Group 1-1,text,true,,376,441,1,1,http://dmoney.roadtocareer.net/transaction/balance/01622519799,19,0,0
+1718323395825,22,Delete Request,200,OK,Thread Group 1-1,text,true,,375,448,1,1,http://dmoney.roadtocareer.net/user/delete/7965,22,0,0
