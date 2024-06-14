@@ -14,22 +14,12 @@
 ```bash
  $ jmeter -n -t Jmeter Performance test using API Chaining.jmx -l Dmoney-Load-Test.csv -e -o Reports
 ```
-
-
-
-## Test case
-- https://docs.google.com/spreadsheets/d/1-j7Gq2wA5WnfXxYAsnuwEszlTsU2axlGQ035e_qcjM0/edit?usp=sharing
-## Bug Report
-- https://docs.google.com/spreadsheets/d/1Km-PmmRyOQA6TA2moEafreRc_uH-tyFVymFEspORhys/edit?usp=sharing
 ## d-money URL
 - http://dmoney.roadtocareer.net/
 
 ## Genarated HTML Report
-  ![Apache-JMeter-Dashboard](https://github.com/Rajaul-Islam/demo-transaction-api-jmeter/assets/86623372/2916cbb7-da11-402c-944e-9446ac57066e)
-  ![Apache-JMeter-statistic](https://github.com/Rajaul-Islam/demo-transaction-api-jmeter/assets/86623372/2a40c22b-1a3d-4058-92a2-fc2231abd7c3)
-
-
-
+![image](https://github.com/RajaulIslam/demo-transaction-api-jmeter/assets/171759757/53751cc1-50e2-4651-a306-fdfcdc772513)
+![image](https://github.com/RajaulIslam/demo-transaction-api-jmeter/assets/171759757/16e32151-e915-4599-9970-9affda01c527)
 
 ## Performance test have done based on following scenario.
 
